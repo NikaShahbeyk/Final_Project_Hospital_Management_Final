@@ -1,0 +1,28 @@
+C:\Users\Nika\Desktop\Final_OS_HOSPITAL_MANAGEMENT\Hospital Management\Hospital Management\bin\Debug\Hospital Management.exe.config
+C:\Users\Nika\Desktop\Final_OS_HOSPITAL_MANAGEMENT\Hospital Management\Hospital Management\bin\Debug\Hospital Management.exe
+C:\Users\Nika\Desktop\Final_OS_HOSPITAL_MANAGEMENT\Hospital Management\Hospital Management\bin\Debug\Hospital Management.pdb
+C:\Users\Nika\Desktop\Final_OS_HOSPITAL_MANAGEMENT\Hospital Management\Hospital Management\obj\Debug\Hospital Management.csproj.AssemblyReference.cache
+C:\Users\Nika\Desktop\Final_OS_HOSPITAL_MANAGEMENT\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Form1.resources
+C:\Users\Nika\Desktop\Final_OS_HOSPITAL_MANAGEMENT\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Properties.Resources.resources
+C:\Users\Nika\Desktop\Final_OS_HOSPITAL_MANAGEMENT\Hospital Management\Hospital Management\obj\Debug\Hospital Management.csproj.GenerateResource.cache
+C:\Users\Nika\Desktop\Final_OS_HOSPITAL_MANAGEMENT\Hospital Management\Hospital Management\obj\Debug\Hospital Management.csproj.CoreCompileInputs.cache
+C:\Users\Nika\Desktop\Final_OS_HOSPITAL_MANAGEMENT\Hospital Management\Hospital Management\obj\Debug\Hospital Management.exe
+C:\Users\Nika\Desktop\Final_OS_HOSPITAL_MANAGEMENT\Hospital Management\Hospital Management\obj\Debug\Hospital Management.pdb
+C:\Users\Nika\Desktop\Final_OS_HOSPITAL_MANAGEMENT\Hospital Management\Hospital Management\bin\Debug\MetroFramework.Design.dll
+C:\Users\Nika\Desktop\Final_OS_HOSPITAL_MANAGEMENT\Hospital Management\Hospital Management\bin\Debug\MetroFramework.dll
+C:\Users\Nika\Desktop\Final_OS_HOSPITAL_MANAGEMENT\Hospital Management\Hospital Management\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Nika\Desktop\Final_OS_HOSPITAL_MANAGEMENT\Hospital Management\Hospital Management\obj\Debug\Hospital Management.csproj.CopyComplete
+C:\Users\Nika\Desktop\Final_OS_HOSPITAL_MANAGEMENT\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Home.resources
+C:\Users\Nika\Desktop\Final_OS_HOSPITAL_MANAGEMENT\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.DoctorForm.resources
+C:\Users\Nika\Desktop\Final_OS_HOSPITAL_MANAGEMENT\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.PatientFormcs.resources
+C:\Users\Nika\Desktop\Final_OS_HOSPITAL_MANAGEMENT\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.DiagnosisForm.resources
+C:\Users\Nika\Desktop\Final_OS_HOSPITAL_MANAGEMENT\Hospital Management\Hospital Management\bin\Debug\Database1.mdf
+C:\Users\Nika\Desktop\Final_OS_HOSPITAL_MANAGEMENT\Hospital Management\Hospital Management\bin\Debug\Database1_log.ldf
+C:\Users\Nika\Desktop\Final_OS_HOSPITAL_MANAGEMENT\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Surgery.resources
+C:\Users\Nika\Desktop\Final_OS_HOSPITAL_MANAGEMENT\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Radiology.resources
+C:\Users\Nika\Desktop\Final_OS_HOSPITAL_MANAGEMENT\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Builder.resources
+C:\Users\Nika\Desktop\Final_OS_HOSPITAL_MANAGEMENT\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Pharmacy.resources
+C:\Users\Nika\Desktop\Final_OS_HOSPITAL_MANAGEMENT\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Bedcs.resources
+C:\Users\Nika\Desktop\Final_OS_HOSPITAL_MANAGEMENT\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Nurse.resources
+C:\Users\Nika\Desktop\Final_OS_HOSPITAL_MANAGEMENT\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.NewBorncs.resources
+C:\Users\Nika\Desktop\Final_OS_HOSPITAL_MANAGEMENT\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.deathcs.resources
